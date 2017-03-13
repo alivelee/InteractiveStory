@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Interactive Story</string>
+    <string name="pictureDescription">mainPicture</string>
+    <string name="key_Name">name</string>
+</resources>
